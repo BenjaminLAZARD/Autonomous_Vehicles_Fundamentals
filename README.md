@@ -6,3 +6,5 @@ Together with [Nicolas Cadhart](https://www.linkedin.com/in/nicolas-cadart-4119b
 The assignments are the property of the teacher [Cem Karaoguz](https://www.linkedin.com/in/cem-karaoguz-50274434/?ppe=1), but our solutions are free to use.
 
 The goal was to explore a few topics in intelligent vehicles such as best path planning, detection of traffic lights, Lidar data processing (detection of surroundings) and machine learning analysis.
+
+Have a look at the **[FINAL REPORT](https://github.com/BenjaminLAZARD/TA23/blob/master/Autonomous_Vehicles_CADHART_LAZARD.pdf)**
